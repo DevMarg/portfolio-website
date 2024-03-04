@@ -339,6 +339,7 @@ table> thead, tbody {
 .project-list__item {
     display: inline-block;
     width: 33%;
+    padding: 10px;
 }
 
 .project-list {
