@@ -329,6 +329,10 @@ table> thead, tbody {
     text-align: left;  
 }
 
+td {
+    padding: 10px;
+}
+
 /* Work */
 
 .project-list-title {
