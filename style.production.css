@@ -539,6 +539,11 @@ main> #contact-details {
     .page-content__cv-container {
        margin-top: 10px; 
     }
+
+    table {
+        width: 80%;
+        margin: 0 auto;        
+    } 
     
 }
 
