@@ -329,7 +329,7 @@ table> thead, tbody {
     text-align: left;  
 }
 
-/* Contact */
+/* Work */
 
 .project-list-title {
     text-align: center;
@@ -371,6 +371,8 @@ table> thead, tbody {
     cursor: pointer;
     background-color: #5A5A5A;
 }
+
+/* Contact */
 
 .contact-form-container {
     max-width: 400px; 
