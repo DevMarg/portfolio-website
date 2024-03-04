@@ -544,6 +544,10 @@ main> #contact-details {
         width: 80%;
         margin: 0 auto;        
     } 
+
+    .contact-form-container {        
+        max-width: 300px;
+    }
     
 }
 
